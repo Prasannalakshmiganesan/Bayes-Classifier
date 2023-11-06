@@ -1,4 +1,4 @@
-# Bayes-Classifier
+# Ex No. 2- Bayes-Classifier
 ## Aim:
 To Construct a Bayes Classifier to classiy iris dataset using Python.
 ## Algorithm:
